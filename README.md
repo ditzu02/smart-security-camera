@@ -37,7 +37,7 @@ A Raspberry Pi-based smart security camera system with motion detection and real
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/smart-security-camera.git
+git clone https://github.com/ditzu02/smart-security-camera.git
 cd smart-security-camera
 ```
 
@@ -105,8 +105,8 @@ python3 app.py
 ### 2. Production (Gunicorn)
 
 ```bash
-pip install gunicorn gevent
-gunicorn -w 1 -k gevent -b 0.0.0.0:5000 app:app
+pip install gunicorn
+gunicorn -w 1 -b 0.0.0.0:5000 app:app
 ```
 
 ---
