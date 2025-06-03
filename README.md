@@ -17,9 +17,9 @@ A Raspberry Pi-based smart security camera system with motion detection and real
 
 ## Demo
 
-| Live Stream | Motion Gallery |
-|-------------|----------------|
-| _Live feed preview here_ | _Captured images preview here_ |
+|Motion Gallery |
+|----------------|
+|![motion_20250602_171451](https://github.com/user-attachments/assets/a54a50cd-d3ef-42b2-b687-9743da93a664)|
 
 ---
 
